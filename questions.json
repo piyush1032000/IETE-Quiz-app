@@ -1,0 +1,282 @@
+{
+   "arr": [{"id": 0,
+          "text": "Were you a bird, you __________ in the sky.",
+          "answers": [
+    "would fly",
+    "shall fly",
+    "should fly",
+    "shall have flown"
+    ],
+          "correct": 0
+    },
+    {
+    "id": 1,
+          "text": " Choose the most appropriate word (s) from the options given below to complete the following sentence. I Contemplated ___________ Singapore for my vacation but dec"id"ed against it.",
+          "answers": [
+    " to visit ",
+    "having to visit",
+    "visiting",
+    "for a visit"
+    ],
+          "correct": 2,
+    },
+    
+    {
+    "id": 2,
+          "text": " Choose the "correct" sequence of the given words/phrases so that it forms a logical sentence.
+    P killing six people and injuring four
+    Q crashed into a heavy vehicle
+    R monday morning an SUV carrying 10 people
+    S in the wee hours of
+             ",
+          "answers": [
+    " SPQR",
+    "SQRP",
+    "SRQP",
+    "SQPR"
+    ],
+          "correct": 2,
+    },
+    
+    {
+    "id": 3,
+          "text": "Statement:
+    All harmoniums are instruments
+    All the instruments are flutes
+    Conclusion:
+    1.All the flutes are instruments
+    2.All the harmonium are flutes
+     ",
+          "answers": [
+    "Only conclusion 1 is true",
+    "Only conclusion 2 is true",
+    "Both conclusion 1 and 2 true",
+    "Neither conclusion 1 nor conclusion 2 are true"
+    ],
+          "correct": 1,
+    },
+    
+    {
+    "id": 4,
+          "text": " The head Chef asked the intern to turn________ the induction and heat the pan.",
+          "answers": [
+    " Off",
+    "In",
+    "Over",
+    "At"
+    ],
+          "correct": 0,
+    },
+    
+    {
+    "id": 5,
+          "text": " which of the following is not a property of semiconductor used in electronics devices",
+          "answers": [
+    " They excite electron",
+    "They don’t emit light",
+    "They have high thermal conductivity",
+    "They have variable electrical conductivity"
+    ],
+          "correct": 1,
+    },
+    
+    {
+    "id": 6,
+          "text": " what is a circuit",
+          "answers": [
+    " open-loop through which electrons can pass",
+    "closed-loop through which electrons can pass",
+    "closed-loop through which Neutrons can pass",
+    "none of the mentioned"
+    ],
+          "correct": 3,
+    },
+    
+    {
+    "id": 7,
+          "text": " If x=5 , y=10 ,  then what is (x & y) + y^(x ^ y)",
+          "answers": [
+    " 10",
+    "0",
+    "5",
+    "15"
+    ],
+          "correct": 2,
+    },
+    {
+    "id": 8,
+          "text": " Arduino "id"E consist of two functions . What are they ?",
+          "answers": [
+    " Loop(),Build() and Setup()",
+    "Build() and Loop() ",
+    " Setup() and Build() ",
+    "Setup() and Loop()"
+    ],
+          "correct": 3,
+    },
+    
+    {
+    "id": 9,
+          "text": "Holes are charge carriers in which one of the following?",
+          "answers": [
+    "Intrinsic semiconductors",
+    "Ionic sol"id"s",
+    "n-type semiconductors",
+    "Metals"
+    ],
+          "correct": 0,
+    },
+    
+    {
+    "id": 10,
+          "text": "Cons"id"er an array A = {1, 2, 4, 5, 6, 11, 12} and a key which is equal to 10. How many comparisons 
+    would be done to find the key element in the array using the binary search?",
+          "answers": [
+    "5",
+    "1", 
+    "2",
+    "3"
+    ],
+          "correct": 3,
+    },
+    
+    {
+    "id": 11,
+          "text": "What will be the output of the following pseudocode? 
+    Integer a, b, c
+    Set b = 5, a = 2, c = 2 if(b>a && a>c && c>b) b=a+1
+    Else
+    a = b +1
+    End if
+    Print a + b + c",
+          "answers": [
+    "2",
+    "13",
+    "26",
+    "5"
+    ],
+          "correct": 1,
+    },
+    
+    {
+    "id": 12,
+          "text": "What will be the output of the following pseudocode? 
+    #include<stdio.h> int main()
+    { 
+    int i,j,c=0,p=20; for(i=0;i<=5;i++) { 
+    for(j=0;j<3;j++) { 
+    c++; } 
+    c=c-2; 
+    p=p-c; } 
+    printf("%d %d",c,p); 
+    return 0; 
+    }",
+          "answers": [
+    "61",
+    "60", 
+    "80", 
+    "102"
+    ],
+          "correct": 0,
+    },
+    
+    {
+    "id": 13,
+          "text": "What will be the output of the following pseudocode? 
+    #include<stdio.h> int main()
+    { 
+    int k=0,x=0,i; for(i=3;i>=0;i--) { 
+    x=k++ + k++ + --k - k++; 
+    printf("%d ", x); } 
+    return 0; 
+    } ",
+          "answers": [
+    "1 3 7 15",
+    "1 6 8 10",
+    "1 5 9 13", 
+    "1 11 17 20"
+    ],
+          "correct": 2,
+    },
+    
+    
+    
+    {
+    "id": 14,
+          "text": "Time complexity of Binary Search, if size of sorted array is N? ",
+          "answers": [
+    "O(N log N)",
+    "O(1)",
+    "O(N)",
+    "O(log N)"
+    ],
+          "correct": 3,
+    },
+    
+    {
+    "id": 15,
+          "text": "Pointing to a photograph, a man sa"id", "I have no brother, and that man's father is my father's son." Whose photograph was it? ",
+          "answers": [
+    "His son",
+    "His own",
+    "His father", 
+    "His nephew"
+    ],
+          "correct": 0,
+    },
+    
+    {
+    "id": 16,
+          "text": "Peter is in the East of Tom and Tom is in the North of John. Mike is in the South of John then in which direction of Peter is Mike? ",
+          "answers": [
+    "South-East",
+    "South-West",
+    "South",
+    "North-East"
+    ],
+          "correct": 1,
+    },
+    
+    {
+    "id": 17,
+          "text": '"I. Pooja is older than Mukesh. 
+    II. Suresh is older than Pooja. 
+    III. Mukesh is older than Suresh. 
+    If the first two statements are true, the third statement is "',
+          "answers": [
+    "False",
+    "True",
+    "Uncertain" 
+    ],
+          "correct": 0,
+    },
+    
+    {
+    "id": 18,
+          "text":' "If Suresh borrows Rs. 36000 from Mahesh at rate of interest 6% S.I, at the end of four years how much interest Suresh has to pay along with principal amount? "',
+          "answers": [
+    "Rs. 12560",
+    "Rs. 12960",
+    "Rs. 13500", 
+    "Rs. 14500"
+    ],
+          "correct": 1,
+    },
+    
+    {
+    "id": 19,
+          "text": '" A train moving at speed of 90 km/hr crosses a pole in 7 seconds. Find the length of the train. "',
+          "answers": [
+    "150 m",
+    "165 m",
+    "175 m",
+    "170 m"
+    ],
+          "correct": 2,
+    },]
+}
+    
+    
+    
+    
+    
